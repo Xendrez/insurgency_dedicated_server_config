@@ -1,0 +1,15 @@
+buhriz_coop checkpoint
+
+market_coop checkpoint
+
+heights_coop checkpoint
+
+contact_coop checkpoint
+
+district_coop checkpoint
+
+ministry_coop checkpoint
+
+siege_coop checkpoint
+
+peak_coop checkpoint
